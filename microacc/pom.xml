@@ -75,7 +75,7 @@
   <configuration>
 	<archive>
 	<manifest>
-		<mainClass>mynewproject.App</mainClass>
+		<mainClass>microacc.App</mainClass>
 	</manifest>
 	</archive>
   </configuration>       
